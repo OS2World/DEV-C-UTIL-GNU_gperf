@@ -1,0 +1,33 @@
+                          Upload Information Template for Hobbes.nmsu.edu
+                          ===============================================
+
+        Archive Filename: gperf-3.0.4.zip
+       Short Description: gperf v3.0.4 for OS/2
+        Long Description: gperf v3.0.4 for OS/2.
+This is GNU gperf. It is a program that generates perfect hash
+functions for sets of key words.  A perfect hash function is:
+
+          A hash function and a data structure that allows
+          recognition of a key word in a set of words using
+          exactly 1 probe into the data structure.
+
+      Proposed directory
+           for placement: /pub/os2/dev/emx/contrib/gcc
+
+               Your name: KO Myung-Hun
+           Email address: komh@chollian.net
+    Program contact name: (same)
+   Program contact email: (same)
+             Program URL: http://www.gnu.org/software/gperf/
+
+      Would you like the
+   contact email address
+    included in listings? yes
+
+Operating System/Version: 
+ Additional requirements: kLIBC063
+
+                Replaces: (none)
+
+
+
